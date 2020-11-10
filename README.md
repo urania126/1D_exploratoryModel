@@ -1,8 +1,13 @@
 # 1D_exploratoryModel
 
-In this repository source code for a simple stochastic random-walk model is
-available. 
-You will find 6 independent files: 
-- *binormal.m*: a function to perform normal approximation to binomial
+We built this repository to make our source code available for everybody. 
+You will find 3 core files: 
+- `binormal.m`: a function to perform normal approximation to binomial
 distribution when number of elements is over 1000. 
-- *dataProcessing.m*: 
+- `dataProcessing.m`, which we use to calculate mean, standard deviation and mean standard error for all variables of interest.
+$$
+a \cdot b = 0 
+$$ 
+work in local directories 
+
+Julia code files will be available soon. 
