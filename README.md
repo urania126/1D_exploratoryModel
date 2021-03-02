@@ -1,6 +1,6 @@
 # 1D_exploratoryModel
-(10/11/2020)  
-We built this repository to make our source code available for everybody. 
+  
+We built this repository to make our model code available for everybody. 
 You will find 4 core files: 
 - `binormal.m`: a function to perform normal approximation to binomial
 distribution when number of elements is over 1000. 
